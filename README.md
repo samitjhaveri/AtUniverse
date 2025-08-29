@@ -3,7 +3,7 @@
 
 # :rocket: Create your first pipeline
 
-In a few simple steps, set up continuous integration for a GitHub repository using Azure Pipelines.
+AtUniverse is an app that designs intelligent workflows using GitHub Models and the new unified framework. In a few simple steps, you can also set up continuous integration for a GitHub repository using Azure Pipelines.
 
 :clock3: Duration: 5-10 minutes
 
