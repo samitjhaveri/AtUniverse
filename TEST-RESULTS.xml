@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2025-08-29T17:08:23" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="String" timestamp="2025-08-29T17:08:23" tests="0" file="/home/runner/work/AtUniverse/AtUniverse/tests/test.js" failures="0" time="0">
+  </testsuite>
+  <testsuite name="#indexOf" timestamp="2025-08-29T17:08:23" tests="1" file="/home/runner/work/AtUniverse/AtUniverse/tests/test.js" failures="0" time="0">
+    <testcase name="String #indexOf should return -1 when the substring is not present" time="0" classname="should return -1 when the substring is not present">
+    </testcase>
+  </testsuite>
+</testsuites>
